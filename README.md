@@ -1,5 +1,5 @@
 # aidawx
-Aida WxApp 产品需求整理
+Aida WxApp
 
 ### [必读须知] 项目说明事项
 
