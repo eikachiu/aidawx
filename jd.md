@@ -11,5 +11,5 @@ WEB应用前端开发工程师
 ### 技能要求：
 - 具备JavaScript, HTML5, CSS3相关实战经验
 - 了解Vue.js, React, AngularJS等任意一种流行前端开发框架
-- WEB应用中前端与后台服务对接方法和能力
+- 掌握WEB应用中前端与后台服务对接方法和能力
 
